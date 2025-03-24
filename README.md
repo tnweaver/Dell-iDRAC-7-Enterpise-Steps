@@ -11,7 +11,11 @@ This is tested on the 12th generation Poweredge servers, Dell PowerEdge R#20,T#2
 This is a remake from: https://pastebin.com/LQ8C7pgs
 
 ## Step 1
-Download "OMSA71-CentOS6-x86_64-LiveDVD.iso". It must be this older version, newer versions replaced a tool we want with a dumbed down version. I have Provided it within the repo but you can also just google for it too.
+Download "OMSA71-CentOS6-x86_64-LiveDVD.iso". It must be this older version, newer versions replaced a tool we want with a dumbed down version. I have Provided a link to download it but you can also just google for it too as no files larger than 25mb can be uploaded to github.
+
+https://web.archive.org/web/20180106065924/http://linux.dell.com/files/openmanage-contributions/omsa-71-live/OMSA71-CentOS6-x86_64-LiveDVD.iso
+
+https://vault.centos.org/6.10/isos/x86_64/
 
 
 ## Step 2

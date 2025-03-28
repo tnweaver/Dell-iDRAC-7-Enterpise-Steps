@@ -5,7 +5,7 @@ This works for all Dell IDRAC Servers that use IDRAC 7, This only works for IDRA
 
 This works great for Homelabs though!
 
-This is tested on the 12th generation Poweredge servers, Dell PowerEdge R#20,T#20
+This is tested on the 12th generation Poweredge servers, Dell PowerEdge R#20,T#20, for sure works on Dell R420(my current system) 
 
 
 This is a remake from: https://pastebin.com/LQ8C7pgs

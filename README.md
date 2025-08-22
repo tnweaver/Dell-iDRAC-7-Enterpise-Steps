@@ -1,4 +1,4 @@
-# Dell-iDRAC-7-Enterpise
+# Dell-iDRAC-7-Enterprise
 iDrac 7 Enterprise Homelab Steps 
 
 This works for all Dell IDRAC Servers that use IDRAC 7, This only works for IDRAC 7 and should not be used for businesses as this will make duplicate service tags and may cause issues if called for service from Dell.
@@ -16,7 +16,7 @@ Download "OMSA71-CentOS6-x86_64-LiveDVD.iso". It must be this older version, new
 
 ### This first link Takes a long time
 https://web.archive.org/web/20180106065924/http://linux.dell.com/files/openmanage-contributions/omsa-71-live/OMSA71-CentOS6-x86_64-LiveDVD.iso
-### Offical Link for centos
+### Offical Link for CentOS
 https://vault.centos.org/6.10/isos/x86_64/
 
 
